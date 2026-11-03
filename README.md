@@ -1,4 +1,5 @@
 # Cybersecurity Learning Journey
+-SOC Project Module-Wireshark - SOC Lab completed
 
 My cybersecurity learning journey - Wireshark labs, networking, and SOC basics by Vanitha V.
 
